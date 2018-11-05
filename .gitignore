@@ -3,3 +3,7 @@
 codigo/text8
 codigo/corpus/*
 codigo/wordspaces/*
+codigo/corpus2/*
+codigo/wordspaces_OLD/*
+codigo/*.dSYM
+codigo/word2vec/
